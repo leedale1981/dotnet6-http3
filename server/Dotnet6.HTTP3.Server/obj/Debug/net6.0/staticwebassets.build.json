@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SeXF61tsKP6wWmJNnZNwOwDXHZe1cGmo8fcGq2BTe7k=",
+  "Source": "Dotnet6.HTTP3.Server",
+  "BasePath": "_content/Dotnet6.HTTP3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

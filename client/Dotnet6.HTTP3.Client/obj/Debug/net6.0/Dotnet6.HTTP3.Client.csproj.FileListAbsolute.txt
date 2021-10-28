@@ -1,0 +1,16 @@
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\bin\Debug\net6.0\Dotnet6.HTTP3.Client.exe
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\bin\Debug\net6.0\Dotnet6.HTTP3.Client.deps.json
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\bin\Debug\net6.0\Dotnet6.HTTP3.Client.runtimeconfig.json
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\bin\Debug\net6.0\Dotnet6.HTTP3.Client.dll
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\bin\Debug\net6.0\ref\Dotnet6.HTTP3.Client.dll
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\bin\Debug\net6.0\Dotnet6.HTTP3.Client.pdb
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.GlobalUsings.g.cs
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.csproj.AssemblyReference.cache
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.AssemblyInfoInputs.cache
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.AssemblyInfo.cs
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.csproj.CoreCompileInputs.cache
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.dll
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\ref\Dotnet6.HTTP3.Client.dll
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.pdb
+D:\src\Examples\DotnetHTTP3\dotnet6-http3\client\Dotnet6.HTTP3.Client\obj\Debug\net6.0\Dotnet6.HTTP3.Client.genruntimeconfig.cache
